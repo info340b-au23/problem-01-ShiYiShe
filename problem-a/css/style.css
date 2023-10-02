@@ -10,3 +10,7 @@ p{
 img{
     max-height: 400px;
 }
+
+.important{
+    color:blueviolet;
+}
